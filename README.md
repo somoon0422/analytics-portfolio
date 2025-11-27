@@ -1,6 +1,6 @@
 # Analytics Assistant - Portfolio
 
-> 데이터 분석을 위한 웹 기반 쿼리 빌더 및 AI 어시스턴트
+> 데이터 분석을 위한 웹 기반 셀프서비스 분석 플랫폼
 
 ## Live Demo
 
@@ -26,7 +26,7 @@ https://somoon0422.github.io/analytics-portfolio/
 
 ## 주요 기능
 
-### 1. 쿼리 빌더 (기본 모드)
+### 1. 데이터 분석 도구 (기본 모드)
 - 드래그 앤 드롭으로 컬럼 선택
 - GROUP BY, 집계함수, WHERE 조건 자동 구성
 - 실시간 SQL 미리보기 (구문 강조)
@@ -105,6 +105,7 @@ https://somoon0422.github.io/analytics-portfolio/
 
 ## 개발자
 
+**김소희**
 - GitHub: [@somoon0422](https://github.com/somoon0422)
 
 ---
